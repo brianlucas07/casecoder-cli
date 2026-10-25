@@ -1,0 +1,20 @@
+﻿Usuário: oi
+Assistente: Olá! Como posso ajudar você hoje?
+
+Usuário: total 60
+drwxr-xr-x 6 brianlucas brianlucas 4096 out 25 15:02 .
+drwxr-xr-x 6 brianlucas brianlucas 4096 out 24 23:33 ..
+drwxr-xr-x 3 brianlucas brianlucas 4096 out 24 23:13 bin
+-rw-r--r-- 1 brianlucas brianlucas  316 out 24 23:13 CaseCoder-CLI.csproj
+-rw-r--r-- 1 brianlucas brianlucas  780 out 24 23:13 CaseCoder-CLI.sln
+drwxr-xr-x 7 brianlucas brianlucas 4096 out 24 23:25 .git
+-rw-r--r-- 1 brianlucas brianlucas 8014 out 24 23:13 .gitignore
+drwxr-xr-x 3 brianlucas brianlucas 4096 out 24 23:27 .idea
+-rw-r--r-- 1 brianlucas brianlucas 1068 out 15 17:31 LICENSE
+drwxr-xr-x 3 brianlucas brianlucas 4096 out 24 23:15 obj
+-rw-r--r-- 1 brianlucas brianlucas 6666 out 25 15:02 Program.cs
+-rw-r--r-- 1 brianlucas brianlucas  522 out 24 19:34 README.md
+-rw-r--r-- 1 brianlucas brianlucas   65 out 25 15:02 windowsContext.txt
+
+Assistente: list_directory
+
